@@ -1,0 +1,15 @@
+{
+    "Author": "frady4909",
+    "Name": "OneWinCurrencies",
+    "Punchline": "One window currencies.",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "InternalName": "OneWinCurrencies",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/frady4909/OneWinCurrencies",
+    "Tags": [
+        "Money",
+        "Tomestone",
+        "Currency",
+        "Currencies"
+    ]
+}
